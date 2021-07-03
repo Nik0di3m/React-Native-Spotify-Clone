@@ -34,7 +34,7 @@ export const albumCategories = [
             {
                 id: '1',
                 imageUrl: "https://images.genius.com/75065a7d64ab8906fc585a98a7c7ab98.1000x1000x1.jpg",
-                artistHeadline: "Słoń - Redium"
+                artistHeadline: "Słoń - Redrum"
             },
             {
                 id: '2',

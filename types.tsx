@@ -34,6 +34,9 @@ export type Album = {
   id: string;
   imageUrl: string;
   artistHeadline: string;
+  name: string;
+  by: string;
+  numberOfLikes: number;
 }
 
 export type Song = {

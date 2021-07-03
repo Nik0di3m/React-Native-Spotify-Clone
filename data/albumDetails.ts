@@ -1,6 +1,6 @@
 export default {
     id: '1',
-    name: 'Redium',
+    name: 'Redrum',
     by: 'Słoń',
     numberOfLikes: '78',
     imageUrl: "https://images.genius.com/75065a7d64ab8906fc585a98a7c7ab98.1000x1000x1.jpg",
@@ -27,7 +27,31 @@ export default {
         {
             id: "4",
             imageUrl: "https://images.genius.com/75065a7d64ab8906fc585a98a7c7ab98.1000x1000x1.jpg",
-            title: ' Amore Amore',
+            title: 'Amore Amore',
+            artist: 'Słoń',
+        },
+        {
+            id: "5",
+            imageUrl: "https://images.genius.com/75065a7d64ab8906fc585a98a7c7ab98.1000x1000x1.jpg",
+            title: 'Władza Absolutna',
+            artist: 'Słoń',
+        },
+        {
+            id: "6",
+            imageUrl: "https://images.genius.com/75065a7d64ab8906fc585a98a7c7ab98.1000x1000x1.jpg",
+            title: 'Clint Eastwood',
+            artist: 'Słoń',
+        },
+        {
+            id: "7",
+            imageUrl: "https://images.genius.com/75065a7d64ab8906fc585a98a7c7ab98.1000x1000x1.jpg",
+            title: 'Szepty, Krzyki',
+            artist: 'Słoń',
+        },
+        {
+            id: "8",
+            imageUrl: "https://images.genius.com/75065a7d64ab8906fc585a98a7c7ab98.1000x1000x1.jpg",
+            title: 'Konnichiwa (scratch DJ Flip)',
             artist: 'Słoń',
         },
     ]

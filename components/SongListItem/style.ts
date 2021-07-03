@@ -4,10 +4,12 @@ export const styles = StyleSheet.create({
 
     container: {
         flexDirection: 'row',
+        margin: 8,
     },
     rightContainer: {
         justifyContent: "space-around",
         flexShrink: 1,
+        marginLeft: 8,
     },
     image: {
         width: 75,
