@@ -1,7 +1,7 @@
 import { useRoute } from '@react-navigation/native'
 import React from 'react'
 import { useEffect } from 'react'
-import { View, Text, SafeAreaView, FlatList } from 'react-native'
+import { View, SafeAreaView, FlatList } from 'react-native'
 import albumDetails from '../data/albumDetails'
 import SongListItem from '../components/SongListItem'
 import AlbumHeader from '../components/AlbumHeader'
