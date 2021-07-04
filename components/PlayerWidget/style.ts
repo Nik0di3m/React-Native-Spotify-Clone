@@ -5,8 +5,7 @@ export const styles = StyleSheet.create({
     container: {
         backgroundColor: "#131313",
         position: 'absolute',
-        flexDirection: 'row',
-        bottom: "7%",
+        bottom: 48,
         width: '100%',
         left: 0,
         borderBottomWidth: 2,
@@ -27,12 +26,12 @@ export const styles = StyleSheet.create({
     title: {
         color: 'white',
         fontWeight: '400',
-        fontSize: 18,
+        fontSize: 14,
         margin: 6,
     },
     artist: {
         color: 'lightgrey',
-        fontSize: 18,
+        fontSize: 14,
     },
     name: {
         flexDirection: 'row',
@@ -45,6 +44,14 @@ export const styles = StyleSheet.create({
         width: "30%",
         justifyContent: 'space-between',
         margin: 8,
+    },
+    player: {
+        flexDirection: 'row',
+        width: '100%',
+    },
+    progressBar: {
+        backgroundColor: '#1cd05d',
+        height: 2,
     }
 
 })
